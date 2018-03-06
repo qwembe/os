@@ -51,13 +51,8 @@ int main()
 
     cout << "Deletting  all ..." << endl;
 
-    delete &l;
+	//delete &l;
 
 
     cout << "Sucsess!" << endl;
-
-
-
-
-
 }
